@@ -4,4 +4,4 @@ Write 'run' to .txt file (no newline). Call random_number.py with the path to th
 ## Receiving Data
 The random number generator will generate a random number 0-2 and write it on the .txt file that was entered as an argument.
 ## UML
-<img src="Sequence diagram.jpg" alt="Alt text" title="Optional title">
+<img src="Sequence diagram.jpeg" alt="Alt text" title="Optional title">
