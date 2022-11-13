@@ -12,3 +12,7 @@ while True:
     if text == 'run':
         random_num = str(random.randint(0, 2))
         socket.send(random_num.encode())
+    else:
+        socket.send("Bad Request".encode())
+        
+        
